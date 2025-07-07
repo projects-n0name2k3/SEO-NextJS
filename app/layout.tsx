@@ -14,9 +14,7 @@ export const metadata: Metadata = {
     title: "Bilibili - Shop thời trang hàng đầu",
     description: "Tiện lợi mua sắm hàng triệu mặt hàng, dịch vụ.",
     type: "website",
-    images: [
-      "https://streamersvisuals.com/cdn/shop/articles/bilibili_gaming.jpg?v=1727965853&width=1100",
-    ],
+    images: ["https://assets.pancakeswap.finance/web/og/lottery.jpg"],
   },
 };
 
